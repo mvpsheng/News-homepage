@@ -4,6 +4,10 @@
 
 ## Welcome! 👋
 
+This is so cool website. It takes a lot of work. There is still something to improve.
+But i want to show it first, and improve it later on.
+
+
 Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
